@@ -18,4 +18,4 @@ public class printReverse{
 
 // Output: 654321 (digits printed in reverse)
 
-// ⚡ Use case: Quick reverse display without storing the result!
+//  Use case: Quick reverse display without storing the result!
