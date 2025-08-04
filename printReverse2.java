@@ -18,10 +18,10 @@ public class printReverse2 {
 
 // Stores it in rev
 
-// 📤 Output: 654321 (as an integer)
+//  Output: 654321 (as an integer)
 
-// ✅ Best Use Case: When you need the reversed number in later logic or computation.
+// Best Use Case: When you need the reversed number in later logic or computation.
 
-// ⏱ Time Complexity: O(log₁₀ n)
-// 💾 Space Complexity: O(1)
-// 🏆 Most efficient overall (no string operations, memory-optimal)
+// Time Complexity: O(log₁₀ n)
+//  Space Complexity: O(1)
+// Most efficient overall (no string operations, memory-optimal)
