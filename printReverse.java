@@ -8,3 +8,13 @@ public class printReverse{
         }
     }
 }
+
+// What it does:
+
+// Extracts digits one by one using % and /
+
+// Prints each digit immediately
+
+// Output: 654321 (digits printed in reverse)
+
+// ⚡ Use case: Quick reverse display without storing the result!
