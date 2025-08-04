@@ -26,9 +26,9 @@ public class printReverse3 {
 
 // Converts back to int
 
-// 📤 Output: 654321 (as an integer)
+// Output: 654321 (as an integer)
 
-// ✅ Best Use Case: When working with string manipulation or for quick readability.
+// Best Use Case: When working with string manipulation or for quick readability.
 
-// ⏱ Time Complexity: O(n) where n = number of digits
-// 💾 Space Complexity: O(n) due to string/objects
+// Time Complexity: O(n) where n = number of digits
+//  Space Complexity: O(n) due to string/objects
