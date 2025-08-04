@@ -1,4 +1,5 @@
 public class printReverse2 {
+    // Reverse Number Approach 2 -  Reconstruct Reversed Integer
     public static void main(String args[]) {
         int number = 54687;
         int rev = 0;
