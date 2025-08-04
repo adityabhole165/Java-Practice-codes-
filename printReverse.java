@@ -1,4 +1,5 @@
 public class printReverse{
+    // Reverse the Number first Approach
     public static void main(String args[]) {
         int n = 123456;
         while(n > 0) {
