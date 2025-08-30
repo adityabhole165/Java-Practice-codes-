@@ -14,13 +14,11 @@ public class eg {
     }
 
     static int calculate(int num) {
-        int last =0;
-        while(num > 10) {
-            last = num % 10 ; 
-            break;
+        int Sum = 0;
+        while(num > 0) {
+            Sum +=  num % 10 ; 
+            num = num /10;
         }
-        num = num /10;
-        int Sum = num + last;
         return Sum;
     }
 }
